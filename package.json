@@ -1,0 +1,14 @@
+{
+  "name": "codeship-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:xuyuji9000/codeship-demo.git",
+  "author": "Karl Xu <karl.yogi.xu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "jest": "^22.4.0"
+  }
+}
