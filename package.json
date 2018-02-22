@@ -5,6 +5,10 @@
   "repository": "git@github.com:xuyuji9000/codeship-demo.git",
   "author": "Karl Xu <karl.yogi.xu@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
   "dependencies": {
     "express": "^4.16.2"
   },
