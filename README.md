@@ -4,3 +4,7 @@
 
 # codeship-demo
 
+
+This project is designed to demonstrate how codeship Continueous Delivery(CD) works and help new devops team members spend the least time to pickup this technique. 
+
+Feel free add suggests how to improve the accessibility of this project.
